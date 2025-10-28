@@ -1,0 +1,7 @@
+# Ignore Python cache and virtual env
+__pycache__/
+*.pyc
+venv/
+.env
+tmdb_cache.json
+movies.db
